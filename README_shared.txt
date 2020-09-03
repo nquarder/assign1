@@ -7,3 +7,7 @@
 # Tyler's comments
 
 - I have absolutely no knowledge on uniformly accelerated motion, but if this course can give an idea on what statistical packages would help with teaching it, then I believe a project comparing how R and SAS would benefit these lessons. At least, that's what I understood from this topic. Personally, though, I'd much rather see some data crunching on the climate change front, as I'm interested in that topic myself quite a bit, especially concerning the increasingly erratic weather we seem to have nowadays. Or is it just me?
+
+
+# Nate’s comments 2020
+- Giving GitHub.com another crack. Let’s see how this goes shall we?
